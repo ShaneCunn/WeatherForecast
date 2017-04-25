@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shane\AndroidStudioProjects\FriendlyForecast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\shane\AndroidStudioProjects\FriendlyForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eb1047df15e6fd4a9e1e8aba0e54de9a82e2f31d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\shane\AndroidStudioProjects\FriendlyForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shane\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.5.0\54271c5c7a4dfa1c7cd53d0b10956ea35d32abb0\retrofit-1.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54271c5c7a4dfa1c7cd53d0b10956ea35d32abb0">
+        <dex dex="C:\Users\shane\AndroidStudioProjects\FriendlyForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.5.0_c13397d9c8e2de093f15431bb1de67e5977150c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shane\AndroidStudioProjects\FriendlyForecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fc11822fc753ded9c73b012ef0ecca77133cfae">
+        <dex dex="C:\Users\shane\AndroidStudioProjects\FriendlyForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bf793abde0a49172b22f770287b220414f6219fd\classes.dex" />
+    </item>
+
+</items>
